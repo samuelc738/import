@@ -1,0 +1,544 @@
+{
+  "version": "1789999289967",
+  "updatedAt": "2026-09-21T14:01:29.967Z",
+  "formats": {
+    "alert": {
+      "displayName": "Alert",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 3,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "81f08b7192762cff6e4c9a87c359fc606951a328",
+          "figmaName": "Alert"
+        }
+      ]
+    },
+    "banner one app": {
+      "displayName": "Banner One App",
+      "aliases": [
+        "CommercialBanner",
+        "Banner One App"
+      ],
+      "sizes": [],
+      "aliasesRaw": "CommercialBanner, Banner One App",
+      "sizesRaw": "",
+      "maxPerRow": 3,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "f1be6ba3554d26b2b79419f941ba17a7ee9b7fc8",
+          "figmaName": "Banner One App"
+        }
+      ]
+    },
+    "lightbox": {
+      "displayName": "Lightbox",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 3,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "2fe2ad64bf04f3ff76db32c69f5d8ddb8523075b",
+          "figmaName": "Lightbox"
+        }
+      ]
+    },
+    "product category insights": {
+      "displayName": "Product Category Insights",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "4f0fc0e56a32d136b9e9e13900928291bff6a5c8",
+          "figmaName": "Product Category Insights"
+        }
+      ]
+    },
+    "recommended": {
+      "displayName": "Recommended",
+      "aliases": [
+        "PromotedProducts"
+      ],
+      "sizes": [],
+      "aliasesRaw": "PromotedProducts",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "aa6bcd3f5ba2df5aea31e570061437c974b6b98f",
+          "figmaName": "Recommended"
+        }
+      ]
+    },
+    "push com imagem 474x355": {
+      "displayName": "PUSH_COM_IMAGEM 474x355",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "bbca3e84483c36e600137ceba68c863c78ad1ef2",
+          "figmaName": ""
+        }
+      ]
+    },
+    "push com imagem 360x180": {
+      "displayName": "PUSH_COM_IMAGEM 360x180",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "7695cab72303eef772d8cc35b92d571cab3e664e",
+          "figmaName": ""
+        }
+      ]
+    },
+    "gestao de limites mbpj": {
+      "displayName": "gestão de limites mbpj",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "fbfdb5ce894806564cd798cd998d169667682305",
+          "figmaName": "gestão de limites mbpj"
+        }
+      ]
+    },
+    "comprovante pix": {
+      "displayName": "Comprovante Pix",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "4be5a8545111636267b04977f55b6484a17ac2c9",
+          "figmaName": "Comprovante Pix"
+        }
+      ]
+    },
+    "carrossel comercial superior pj": {
+      "displayName": "Carrossel Comercial Superior PJ",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "40d07d0c45d88659b1a558efd95d69fbfd0aa121",
+          "figmaName": "Carrossel Comercial Superior PJ"
+        }
+      ]
+    },
+    "card home": {
+      "displayName": "Card Home",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "da26cd5e77f7e109aa4b634041769c944277cfe6",
+          "figmaName": "Card Home"
+        }
+      ]
+    },
+    "banner nao logado bnl pj": {
+      "displayName": "Banner não logado (BNL) PJ",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "73e6fcc8efdc41092c8b09a4a974fb8bc506316a",
+          "figmaName": "Banner não logado (BNL) PJ"
+        }
+      ]
+    },
+    "emprestimo banner pj": {
+      "displayName": "Emprestimo Banner PJ",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "bac815ba537e062996fed1f56a97af8e4d574237",
+          "figmaName": "Emprestimo Banner PJ"
+        }
+      ]
+    },
+    "gestao limites banner pj": {
+      "displayName": "Gestão Limites Banner PJ",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "edc5076517ef20af39681b7b28a16e24b33b4526",
+          "figmaName": "Gestão Limites Banner PJ"
+        }
+      ]
+    },
+    "comprovante banner pj": {
+      "displayName": "Comprovante Banner PJ",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "93331ab62f1c12530c66c6d2f59b353e66944f31",
+          "figmaName": "Comprovante Banner PJ"
+        }
+      ]
+    },
+    "carrosselweb": {
+      "displayName": "CarrosselWeb",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "mobi",
+          "key": "643ba9ba670f21f5df5e44f98a114156703627be",
+          "figmaName": "CarrosselWeb_MOBI"
+        },
+        {
+          "suffix": "desk",
+          "key": "3d5368e7bc49c77843f4603bc28e1788419a75f3",
+          "figmaName": "CarrosselWeb_DESK"
+        }
+      ]
+    },
+    "card jornada": {
+      "displayName": "Card Jornada",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "0f2bd9a48ce32b2156122c2be581594f2cc3a4ce",
+          "figmaName": "Card Jornada"
+        }
+      ]
+    },
+    "lista de oferta induvidual": {
+      "displayName": "Lista de oferta induvidual",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "f2b55d99da8a9394539d2e0b0b0ba906b7dc31e7",
+          "figmaName": "Lista de oferta induvidual"
+        }
+      ]
+    },
+    "interstitial": {
+      "displayName": "Interstitial",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "1db2be89e73f228d29db975b80d8f760fc0bb7c3",
+          "figmaName": "Interstitial"
+        }
+      ]
+    },
+    "card cartao": {
+      "displayName": "Card Cartão",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "278362c19d9861ab0a74d38eff78f79072b29d5f",
+          "figmaName": "Card Cartão"
+        }
+      ]
+    },
+    "carrossel": {
+      "displayName": "Carrossel",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "1b4e7952913b7e97fd34f004c8d0b59bee74fea4",
+          "figmaName": "Carrossel"
+        }
+      ]
+    },
+    "banner destaque": {
+      "displayName": "Banner destaque",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "c2cde3772d476804864cc529c31db773a2a888ee",
+          "figmaName": "Banner destaque"
+        }
+      ]
+    },
+    "aviso importante": {
+      "displayName": "Aviso Importante",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "55a78ac991b87fdf81c272a9f544745b0ce85af6",
+          "figmaName": "Aviso Importante"
+        }
+      ]
+    },
+    "home lightbox": {
+      "displayName": "Home LightBox",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "8b50bd4671078c9e53e0e3fcfa19c8c0fcba0b33",
+          "figmaName": "Home LightBox"
+        }
+      ]
+    },
+    "superbanner": {
+      "displayName": "SUPERBANNER",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "desk",
+          "key": "220e0f98dd2d8d1933c5183b3235ce288cc75a23",
+          "figmaName": ""
+        },
+        {
+          "suffix": "desd",
+          "key": "7f3f096527accb25922982d0a2b7e9da6e3b3edc",
+          "figmaName": ""
+        },
+        {
+          "suffix": "desktop",
+          "key": "220e0f98dd2d8d1933c5183b3235ce288cc75a23",
+          "figmaName": "SUPERBANNER_desktop"
+        }
+      ]
+    },
+    "importante para voce": {
+      "displayName": "IMPORTANTE PARA VOCÊ",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "mobi",
+          "key": "2e5a7c1c70cc8427b9e9f58cb4d51ac3c7805988",
+          "figmaName": ""
+        },
+        {
+          "suffix": "desk",
+          "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
+          "figmaName": ""
+        },
+        {
+          "suffix": "mobile",
+          "key": "2e5a7c1c70cc8427b9e9f58cb4d51ac3c7805988",
+          "figmaName": "IMPORTANTE PARA VOCÊ_MOBILE"
+        },
+        {
+          "suffix": "desktop",
+          "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
+          "figmaName": "IMPORTANTE PARA VOCÊ_DESKTOP"
+        }
+      ]
+    },
+    "cardparceiros": {
+      "displayName": "CARDPARCEIROS",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "110ba0e738aefa367ce8f1c5b389e7d866e5ebe1",
+          "figmaName": "CARDPARCEIROS"
+        }
+      ]
+    },
+    "push 474x355": {
+      "displayName": "push 474x355",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "851ad9c1d7298a95991b2cf7c0320aab44385714",
+          "figmaName": "push 474x355"
+        }
+      ]
+    },
+    "push 360x180": {
+      "displayName": "push 360x180",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "2c16be833b69b4d730c3e7f1c1835b6e87ab79cd",
+          "figmaName": "push 360x180"
+        }
+      ]
+    },
+    "email massivo high income": {
+      "displayName": "Email - Massivo - High_Income",
+      "aliases": [
+        "Personal_Generic_Email"
+      ],
+      "sizes": [],
+      "aliasesRaw": "Personal_Generic_Email",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "409b033d25646f924c9c9a0b2b89e8bf286942e2",
+          "figmaName": "Email - Massivo - High_Income"
+        }
+      ]
+    },
+    "email select high income": {
+      "displayName": "Email - Select - High_Income",
+      "aliases": [
+        "High_Income_Generic_Email"
+      ],
+      "sizes": [],
+      "aliasesRaw": "High_Income_Generic_Email",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "528d4fb97b61f513cb9b3478f9a5d8dccecf685e",
+          "figmaName": "Email - Select - High_Income"
+        }
+      ]
+    },
+    "email private": {
+      "displayName": "Email - Private",
+      "aliases": [
+        "Private_Generic_Email"
+      ],
+      "sizes": [],
+      "aliasesRaw": "Private_Generic_Email",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "fa0eee2aab2415bf0dc6db47e64a38fa97e54933",
+          "figmaName": "Email - Private"
+        }
+      ]
+    },
+    "email pj": {
+      "displayName": "Email - PJ",
+      "aliases": [
+        "PJ_Generic_E-mail"
+      ],
+      "sizes": [],
+      "aliasesRaw": "PJ_Generic_E-mail",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "98ca45840b23056dddcb585d1cdd3407451d53da",
+          "figmaName": "Email - PJ "
+        }
+      ]
+    }
+  }
+}
