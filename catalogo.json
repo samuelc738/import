@@ -1,12 +1,14 @@
 {
-  "version": "1789999289967",
-  "updatedAt": "2026-09-21T14:01:29.967Z",
+  "version": "1790013692307",
+  "updatedAt": "2026-09-21T18:01:32.307Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
-      "aliases": [],
+      "aliases": [
+        "Alerts"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "Alerts",
       "sizesRaw": "",
       "maxPerRow": 3,
       "variants": [
@@ -21,10 +23,12 @@
       "displayName": "Banner One App",
       "aliases": [
         "CommercialBanner",
-        "Banner One App"
+        "Banner One App",
+        "COMMERCIAL BANNER",
+        "BannerOneApp"
       ],
       "sizes": [],
-      "aliasesRaw": "CommercialBanner, Banner One App",
+      "aliasesRaw": "CommercialBanner, Banner One App, COMMERCIAL BANNER, BannerOneApp",
       "sizesRaw": "",
       "maxPerRow": 3,
       "variants": [
@@ -53,9 +57,12 @@
     "product category insights": {
       "displayName": "Product Category Insights",
       "aliases": [],
-      "sizes": [],
+      "sizes": [
+        "PRODUCT CATEGORY INSIGHTS",
+        "ProductCategoryInsights"
+      ],
       "aliasesRaw": "",
-      "sizesRaw": "",
+      "sizesRaw": "PRODUCT CATEGORY INSIGHTS, ProductCategoryInsights",
       "maxPerRow": 0,
       "variants": [
         {
@@ -68,10 +75,11 @@
     "recommended": {
       "displayName": "Recommended",
       "aliases": [
-        "PromotedProducts"
+        "PromotedProducts",
+        "Promoted Products"
       ],
       "sizes": [],
-      "aliasesRaw": "PromotedProducts",
+      "aliasesRaw": "PromotedProducts, Promoted Products",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -82,42 +90,17 @@
         }
       ]
     },
-    "push com imagem 474x355": {
-      "displayName": "PUSH_COM_IMAGEM 474x355",
-      "aliases": [],
-      "sizes": [],
-      "aliasesRaw": "",
-      "sizesRaw": "",
-      "maxPerRow": 0,
-      "variants": [
-        {
-          "suffix": "",
-          "key": "bbca3e84483c36e600137ceba68c863c78ad1ef2",
-          "figmaName": ""
-        }
-      ]
-    },
-    "push com imagem 360x180": {
-      "displayName": "PUSH_COM_IMAGEM 360x180",
-      "aliases": [],
-      "sizes": [],
-      "aliasesRaw": "",
-      "sizesRaw": "",
-      "maxPerRow": 0,
-      "variants": [
-        {
-          "suffix": "",
-          "key": "7695cab72303eef772d8cc35b92d571cab3e664e",
-          "figmaName": ""
-        }
-      ]
-    },
     "gestao de limites mbpj": {
       "displayName": "gestão de limites mbpj",
-      "aliases": [],
-      "sizes": [],
-      "aliasesRaw": "",
-      "sizesRaw": "",
+      "aliases": [
+        "GESTAO DE LIMITES MBPJ",
+        "GestaoDeLimitesMbpj"
+      ],
+      "sizes": [
+        "500x140"
+      ],
+      "aliasesRaw": "GESTAO DE LIMITES MBPJ, GestaoDeLimitesMbpj",
+      "sizesRaw": "500x140",
       "maxPerRow": 0,
       "variants": [
         {
@@ -129,9 +112,14 @@
     },
     "comprovante pix": {
       "displayName": "Comprovante Pix",
-      "aliases": [],
+      "aliases": [
+        "COMPROVANTE PIX",
+        "ComprovantePix",
+        "CARD PIX",
+        "CardPix"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "COMPROVANTE PIX, ComprovantePix, CARD PIX, CardPix",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -144,9 +132,12 @@
     },
     "carrossel comercial superior pj": {
       "displayName": "Carrossel Comercial Superior PJ",
-      "aliases": [],
+      "aliases": [
+        "CARROSSEL COMERCIAL SUPERIOR",
+        "CarrosselComercialSuperior"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "CARROSSEL COMERCIAL SUPERIOR, CarrosselComercialSuperior",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -159,9 +150,12 @@
     },
     "card home": {
       "displayName": "Card Home",
-      "aliases": [],
+      "aliases": [
+        "CARD HOME",
+        "CardHome"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "CARD HOME, CardHome",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -174,9 +168,13 @@
     },
     "banner nao logado bnl pj": {
       "displayName": "Banner não logado (BNL) PJ",
-      "aliases": [],
+      "aliases": [
+        "BANNER NAO LOGADO",
+        "BannerNaoLogado",
+        "BNL"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "BANNER NAO LOGADO, BannerNaoLogado, BNL",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -189,9 +187,12 @@
     },
     "emprestimo banner pj": {
       "displayName": "Emprestimo Banner PJ",
-      "aliases": [],
+      "aliases": [
+        "EMPRESTIMO BANNER",
+        "EmprestimoBanner"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "EMPRESTIMO BANNER, EmprestimoBanner",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -204,10 +205,15 @@
     },
     "gestao limites banner pj": {
       "displayName": "Gestão Limites Banner PJ",
-      "aliases": [],
-      "sizes": [],
-      "aliasesRaw": "",
-      "sizesRaw": "",
+      "aliases": [
+        "GESTAO LIMITES BANNER",
+        "GestaoLimitesBanner"
+      ],
+      "sizes": [
+        "336x188"
+      ],
+      "aliasesRaw": "GESTAO LIMITES BANNER, GestaoLimitesBanner",
+      "sizesRaw": "336x188",
       "maxPerRow": 0,
       "variants": [
         {
@@ -219,9 +225,12 @@
     },
     "comprovante banner pj": {
       "displayName": "Comprovante Banner PJ",
-      "aliases": [],
+      "aliases": [
+        "COMPROVANTE BANNER",
+        "ComprovanteBanner"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "COMPROVANTE BANNER, ComprovanteBanner",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -234,9 +243,11 @@
     },
     "carrosselweb": {
       "displayName": "CarrosselWeb",
-      "aliases": [],
+      "aliases": [
+        "CARROSSELWEB"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "CARROSSELWEB",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -254,9 +265,12 @@
     },
     "card jornada": {
       "displayName": "Card Jornada",
-      "aliases": [],
+      "aliases": [
+        "CARD JORNADA",
+        "CardJornada"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "CARD JORNADA, CardJornada",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -269,9 +283,12 @@
     },
     "lista de oferta induvidual": {
       "displayName": "Lista de oferta induvidual",
-      "aliases": [],
+      "aliases": [
+        "LISTA DE OFERTA INDIVIDUAL",
+        "ListaDeOfertaIndividual"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "LISTA DE OFERTA INDIVIDUAL, ListaDeOfertaIndividual",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -299,9 +316,12 @@
     },
     "card cartao": {
       "displayName": "Card Cartão",
-      "aliases": [],
+      "aliases": [
+        "CARD CARTAO",
+        "CardCartao"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "CARD CARTAO, CardCartao",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -329,9 +349,12 @@
     },
     "banner destaque": {
       "displayName": "Banner destaque",
-      "aliases": [],
+      "aliases": [
+        "BANNER DESTAQUE",
+        "Bannerdestaque"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "BANNER DESTAQUE, Bannerdestaque",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -344,9 +367,12 @@
     },
     "aviso importante": {
       "displayName": "Aviso Importante",
-      "aliases": [],
+      "aliases": [
+        "AVISO IMPORTANTE",
+        "AvisoImportante"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "AVISO IMPORTANTE, AvisoImportante",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -359,9 +385,12 @@
     },
     "home lightbox": {
       "displayName": "Home LightBox",
-      "aliases": [],
+      "aliases": [
+        "HOME LIGHTBOX",
+        "HomeLightBox"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "HOME LIGHTBOX, HomeLightBox",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -374,9 +403,12 @@
     },
     "superbanner": {
       "displayName": "SUPERBANNER",
-      "aliases": [],
+      "aliases": [
+        "SUPER BANNER",
+        "SuperBanner"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "SUPER BANNER, SuperBanner",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -389,19 +421,17 @@
           "suffix": "desd",
           "key": "7f3f096527accb25922982d0a2b7e9da6e3b3edc",
           "figmaName": ""
-        },
-        {
-          "suffix": "desktop",
-          "key": "220e0f98dd2d8d1933c5183b3235ce288cc75a23",
-          "figmaName": "SUPERBANNER_desktop"
         }
       ]
     },
     "importante para voce": {
       "displayName": "IMPORTANTE PARA VOCÊ",
-      "aliases": [],
+      "aliases": [
+        "IMPORTANTE PARA VOCE",
+        "ImportanteParaVoce"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "IMPORTANTE PARA VOCE, ImportanteParaVoce",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -414,24 +444,17 @@
           "suffix": "desk",
           "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
           "figmaName": ""
-        },
-        {
-          "suffix": "mobile",
-          "key": "2e5a7c1c70cc8427b9e9f58cb4d51ac3c7805988",
-          "figmaName": "IMPORTANTE PARA VOCÊ_MOBILE"
-        },
-        {
-          "suffix": "desktop",
-          "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
-          "figmaName": "IMPORTANTE PARA VOCÊ_DESKTOP"
         }
       ]
     },
     "cardparceiros": {
       "displayName": "CARDPARCEIROS",
-      "aliases": [],
+      "aliases": [
+        "Card Parceiros",
+        "CardParceiros"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "Card Parceiros, CardParceiros",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -444,10 +467,15 @@
     },
     "push 474x355": {
       "displayName": "push 474x355",
-      "aliases": [],
-      "sizes": [],
-      "aliasesRaw": "",
-      "sizesRaw": "",
+      "aliases": [
+        "PUSH 474X355",
+        "Push474x355"
+      ],
+      "sizes": [
+        "474x355"
+      ],
+      "aliasesRaw": "PUSH 474X355, Push474x355",
+      "sizesRaw": "474x355",
       "maxPerRow": 0,
       "variants": [
         {
@@ -459,10 +487,15 @@
     },
     "push 360x180": {
       "displayName": "push 360x180",
-      "aliases": [],
-      "sizes": [],
-      "aliasesRaw": "",
-      "sizesRaw": "",
+      "aliases": [
+        "PUSH 360X180",
+        "Push360x180"
+      ],
+      "sizes": [
+        "360x180"
+      ],
+      "aliasesRaw": "PUSH 360X180, Push360x180",
+      "sizesRaw": "360x180",
       "maxPerRow": 0,
       "variants": [
         {
