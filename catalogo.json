@@ -1,6 +1,6 @@
 {
-  "version": "1790013692307",
-  "updatedAt": "2026-09-21T18:01:32.307Z",
+  "version": "1790606451127",
+  "updatedAt": "2026-09-28T14:40:51.127Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -10,7 +10,7 @@
       "sizes": [],
       "aliasesRaw": "Alerts",
       "sizesRaw": "",
-      "maxPerRow": 3,
+      "maxPerRow": 5,
       "variants": [
         {
           "suffix": "",
@@ -30,7 +30,7 @@
       "sizes": [],
       "aliasesRaw": "CommercialBanner, Banner One App, COMMERCIAL BANNER, BannerOneApp",
       "sizesRaw": "",
-      "maxPerRow": 3,
+      "maxPerRow": 5,
       "variants": [
         {
           "suffix": "",
@@ -45,7 +45,7 @@
       "sizes": [],
       "aliasesRaw": "",
       "sizesRaw": "",
-      "maxPerRow": 3,
+      "maxPerRow": 5,
       "variants": [
         {
           "suffix": "",
@@ -420,7 +420,12 @@
         {
           "suffix": "desd",
           "key": "7f3f096527accb25922982d0a2b7e9da6e3b3edc",
-          "figmaName": ""
+          "figmaName": "SUPERBANNER_desd"
+        },
+        {
+          "suffix": "desktop",
+          "key": "220e0f98dd2d8d1933c5183b3235ce288cc75a23",
+          "figmaName": "SUPERBANNER_desktop"
         }
       ]
     },
@@ -444,6 +449,16 @@
           "suffix": "desk",
           "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
           "figmaName": ""
+        },
+        {
+          "suffix": "mobile",
+          "key": "2e5a7c1c70cc8427b9e9f58cb4d51ac3c7805988",
+          "figmaName": "IMPORTANTE PARA VOCÊ_MOBILE"
+        },
+        {
+          "suffix": "desktop",
+          "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
+          "figmaName": "IMPORTANTE PARA VOCÊ_DESKTOP"
         }
       ]
     },
@@ -570,6 +585,66 @@
           "suffix": "",
           "key": "98ca45840b23056dddcb585d1cdd3407451d53da",
           "figmaName": "Email - PJ "
+        }
+      ]
+    },
+    "empresas esquentaleads": {
+      "displayName": "Empresas_EsquentaLeads",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "c9eda9a4f7c8ea46a28987381534378187068d74",
+          "figmaName": "Empresas_EsquentaLeads"
+        }
+      ]
+    },
+    "personal generic esquentaleads": {
+      "displayName": "Personal_Generic_EsquentaLeads",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "72c63a850169cecf5e1362529be1878953c49ee5",
+          "figmaName": "Personal_Generic_EsquentaLeads"
+        }
+      ]
+    },
+    "income generic esquentaleads": {
+      "displayName": "Income_Generic_EsquentaLeads",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "379e3345909ad632157eab3ea36f621afe2f42f9",
+          "figmaName": "Income_Generic_EsquentaLeads"
+        }
+      ]
+    },
+    "private esquentaleads": {
+      "displayName": "Private_EsquentaLeads",
+      "aliases": [],
+      "sizes": [],
+      "aliasesRaw": "",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "3696d4ff6fbfcf86c69374908c892aa67714a75a",
+          "figmaName": "Private_EsquentaLeads"
         }
       ]
     }
