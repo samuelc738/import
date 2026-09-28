@@ -1,6 +1,6 @@
 {
-  "version": "1790606451127",
-  "updatedAt": "2026-09-28T14:40:51.127Z",
+  "version": "1790622593545",
+  "updatedAt": "2026-09-28T19:09:53.545Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -309,7 +309,7 @@
       "variants": [
         {
           "suffix": "",
-          "key": "1db2be89e73f228d29db975b80d8f760fc0bb7c3",
+          "key": "fdd2528d0bc7023b9a8f3a00ffde32421b93483a",
           "figmaName": "Interstitial"
         }
       ]
