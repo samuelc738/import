@@ -1,6 +1,6 @@
 {
-  "version": "1790622932512",
-  "updatedAt": "2026-09-28T19:15:32.512Z",
+  "version": "1790705115709",
+  "updatedAt": "2026-09-29T18:05:15.709Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -520,23 +520,6 @@
         }
       ]
     },
-    "email massivo high income": {
-      "displayName": "Email - Massivo - High_Income",
-      "aliases": [
-        "Personal_Generic_Email"
-      ],
-      "sizes": [],
-      "aliasesRaw": "Personal_Generic_Email",
-      "sizesRaw": "",
-      "maxPerRow": 0,
-      "variants": [
-        {
-          "suffix": "",
-          "key": "409b033d25646f924c9c9a0b2b89e8bf286942e2",
-          "figmaName": "Email - Massivo - High_Income"
-        }
-      ]
-    },
     "email select high income": {
       "displayName": "Email - Select - High_Income",
       "aliases": [
@@ -645,6 +628,24 @@
           "suffix": "",
           "key": "3696d4ff6fbfcf86c69374908c892aa67714a75a",
           "figmaName": "Private_EsquentaLeads"
+        }
+      ]
+    },
+    "email massivo personal": {
+      "displayName": "Email - Massivo - Personal",
+      "aliases": [
+        "Personal_Generic_Email",
+        "Personal_Generic_E-mail"
+      ],
+      "sizes": [],
+      "aliasesRaw": "Personal_Generic_Email, Personal_Generic_E-mail",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "409b033d25646f924c9c9a0b2b89e8bf286942e2",
+          "figmaName": "Email - Massivo - High_Income"
         }
       ]
     }
