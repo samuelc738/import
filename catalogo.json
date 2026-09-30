@@ -1,6 +1,6 @@
 {
-  "version": "1790705115709",
-  "updatedAt": "2026-09-29T18:05:15.709Z",
+  "version": "1790771107925",
+  "updatedAt": "2026-09-30T12:25:07.925Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -523,10 +523,11 @@
     "email select high income": {
       "displayName": "Email - Select - High_Income",
       "aliases": [
-        "High_Income_Generic_Email"
+        "High_Income_Generic_Email",
+        "PF_High_Income_Generic_E-mail"
       ],
       "sizes": [],
-      "aliasesRaw": "High_Income_Generic_Email",
+      "aliasesRaw": "High_Income_Generic_Email, PF_High_Income_Generic_E-mail",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
