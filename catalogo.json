@@ -1,6 +1,6 @@
 {
-  "version": "1790771107925",
-  "updatedAt": "2026-09-30T12:25:07.925Z",
+  "version": "1790777312396",
+  "updatedAt": "2026-09-30T14:08:32.396Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -449,16 +449,6 @@
           "suffix": "desk",
           "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
           "figmaName": ""
-        },
-        {
-          "suffix": "mobile",
-          "key": "2e5a7c1c70cc8427b9e9f58cb4d51ac3c7805988",
-          "figmaName": "IMPORTANTE PARA VOCÊ_MOBILE"
-        },
-        {
-          "suffix": "desktop",
-          "key": "2f6cc5090094f020edc0f57ab8c82e78533ffdbb",
-          "figmaName": "IMPORTANTE PARA VOCÊ_DESKTOP"
         }
       ]
     },
@@ -520,14 +510,30 @@
         }
       ]
     },
+    "email massivo high income": {
+      "displayName": "Email - Massivo - High_Income",
+      "aliases": [
+        "Personal_Generic_Email"
+      ],
+      "sizes": [],
+      "aliasesRaw": "Personal_Generic_Email",
+      "sizesRaw": "",
+      "maxPerRow": 0,
+      "variants": [
+        {
+          "suffix": "",
+          "key": "409b033d25646f924c9c9a0b2b89e8bf286942e2",
+          "figmaName": "Email - Massivo - High_Income"
+        }
+      ]
+    },
     "email select high income": {
       "displayName": "Email - Select - High_Income",
       "aliases": [
-        "High_Income_Generic_Email",
-        "PF_High_Income_Generic_E-mail"
+        "High_Income_Generic_Email"
       ],
       "sizes": [],
-      "aliasesRaw": "High_Income_Generic_Email, PF_High_Income_Generic_E-mail",
+      "aliasesRaw": "High_Income_Generic_Email",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -629,24 +635,6 @@
           "suffix": "",
           "key": "3696d4ff6fbfcf86c69374908c892aa67714a75a",
           "figmaName": "Private_EsquentaLeads"
-        }
-      ]
-    },
-    "email massivo personal": {
-      "displayName": "Email - Massivo - Personal",
-      "aliases": [
-        "Personal_Generic_Email",
-        "Personal_Generic_E-mail"
-      ],
-      "sizes": [],
-      "aliasesRaw": "Personal_Generic_Email, Personal_Generic_E-mail",
-      "sizesRaw": "",
-      "maxPerRow": 0,
-      "variants": [
-        {
-          "suffix": "",
-          "key": "409b033d25646f924c9c9a0b2b89e8bf286942e2",
-          "figmaName": "Email - Massivo - High_Income"
         }
       ]
     }
