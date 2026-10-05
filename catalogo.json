@@ -1,6 +1,6 @@
 {
-  "version": "1790777312396",
-  "updatedAt": "2026-09-30T14:08:32.396Z",
+  "version": "1791221755106",
+  "updatedAt": "2026-10-05T17:35:55.106Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -530,10 +530,11 @@
     "email select high income": {
       "displayName": "Email - Select - High_Income",
       "aliases": [
-        "High_Income_Generic_Email"
+        "High_Income_Generic_Email",
+        "High_Income_Generic_E-mail"
       ],
       "sizes": [],
-      "aliasesRaw": "High_Income_Generic_Email",
+      "aliasesRaw": "High_Income_Generic_Email, High_Income_Generic_E-mail",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
