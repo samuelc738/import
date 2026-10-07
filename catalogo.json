@@ -1,6 +1,6 @@
 {
-  "version": "1791391357601",
-  "updatedAt": "2026-10-07T16:42:37.601Z",
+  "version": "1791396988059",
+  "updatedAt": "2026-10-07T18:16:28.059Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -134,10 +134,11 @@
       "displayName": "Carrossel Comercial Superior PJ",
       "aliases": [
         "CARROSSEL COMERCIAL SUPERIOR",
-        "CarrosselComercialSuperior"
+        "CarrosselComercialSuperior",
+        "Carrossel_MBPJ"
       ],
       "sizes": [],
-      "aliasesRaw": "CARROSSEL COMERCIAL SUPERIOR, CarrosselComercialSuperior",
+      "aliasesRaw": "CARROSSEL COMERCIAL SUPERIOR, CarrosselComercialSuperior, Carrossel_MBPJ",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
@@ -244,10 +245,11 @@
     "carrosselweb": {
       "displayName": "CarrosselWeb",
       "aliases": [
-        "CARROSSELWEB"
+        "CARROSSELWEB",
+        "CarrosseL_IBPJ"
       ],
       "sizes": [],
-      "aliasesRaw": "CARROSSELWEB",
+      "aliasesRaw": "CARROSSELWEB, CarrosseL_IBPJ",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
