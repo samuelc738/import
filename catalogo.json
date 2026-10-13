@@ -1,6 +1,6 @@
 {
-  "version": "1791397240056",
-  "updatedAt": "2026-10-07T18:20:40.056Z",
+  "version": "1791918361957",
+  "updatedAt": "2026-10-13T19:06:01.957Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -135,11 +135,14 @@
       "aliases": [
         "CARROSSEL COMERCIAL SUPERIOR",
         "CarrosselComercialSuperior",
-        "Carrossel_MBPJ"
+        "Carrossel_MBPJ",
+        "Carrossel_500x140"
       ],
-      "sizes": [],
-      "aliasesRaw": "CARROSSEL COMERCIAL SUPERIOR, CarrosselComercialSuperior, Carrossel_MBPJ",
-      "sizesRaw": "",
+      "sizes": [
+        "500x140"
+      ],
+      "aliasesRaw": "CARROSSEL COMERCIAL SUPERIOR, CarrosselComercialSuperior, Carrossel_MBPJ, Carrossel_500x140",
+      "sizesRaw": "500x140",
       "maxPerRow": 0,
       "variants": [
         {
