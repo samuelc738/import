@@ -1,6 +1,6 @@
 {
-  "version": "1791918361957",
-  "updatedAt": "2026-10-13T19:06:01.957Z",
+  "version": "1791922106795",
+  "updatedAt": "2026-10-13T20:08:26.795Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -581,10 +581,11 @@
     "email pj": {
       "displayName": "Email - PJ",
       "aliases": [
-        "PJ_Generic_E-mail"
+        "PJ_Generic_E-mail",
+        "PJ_Generic_Email"
       ],
       "sizes": [],
-      "aliasesRaw": "PJ_Generic_E-mail",
+      "aliasesRaw": "PJ_Generic_E-mail, PJ_Generic_Email",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
