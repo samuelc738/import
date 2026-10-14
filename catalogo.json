@@ -1,6 +1,6 @@
 {
-  "version": "1791980933510",
-  "updatedAt": "2026-10-14T12:28:53.510Z",
+  "version": "1791984041697",
+  "updatedAt": "2026-10-14T13:20:41.697Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -356,11 +356,14 @@
       "displayName": "Banner destaque",
       "aliases": [
         "BANNER DESTAQUE",
-        "Bannerdestaque"
+        "Bannerdestaque",
+        "BannerImage"
       ],
-      "sizes": [],
-      "aliasesRaw": "BANNER DESTAQUE, Bannerdestaque",
-      "sizesRaw": "",
+      "sizes": [
+        "360x380"
+      ],
+      "aliasesRaw": "BANNER DESTAQUE, Bannerdestaque, BannerImage",
+      "sizesRaw": "360x380",
       "maxPerRow": 0,
       "variants": [
         {
