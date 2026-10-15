@@ -1,6 +1,6 @@
 {
-  "version": "1792092050437",
-  "updatedAt": "2026-10-15T19:20:50.437Z",
+  "version": "1792096177328",
+  "updatedAt": "2026-10-15T20:29:37.328Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -601,9 +601,11 @@
     },
     "empresas esquentaleads": {
       "displayName": "Empresas_EsquentaLeads",
-      "aliases": [],
+      "aliases": [
+        "PJ_Generic_EsquentaLeads"
+      ],
       "sizes": [],
-      "aliasesRaw": "",
+      "aliasesRaw": "PJ_Generic_EsquentaLeads",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
