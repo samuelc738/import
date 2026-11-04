@@ -1,6 +1,6 @@
 {
-  "version": "1792615561212",
-  "updatedAt": "2026-10-21T20:46:01.212Z",
+  "version": "1793803524520",
+  "updatedAt": "2026-11-04T14:45:24.520Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -657,10 +657,11 @@
       "displayName": "Email - PJ",
       "aliases": [
         "PJ_Generic_E-mail",
-        "PJ_Generic_Email"
+        "PJ_Generic_Email",
+        "PJ_Unified Segment_Generic_Email"
       ],
       "sizes": [],
-      "aliasesRaw": "PJ_Generic_E-mail, PJ_Generic_Email",
+      "aliasesRaw": "PJ_Generic_E-mail, PJ_Generic_Email, PJ_Unified Segment_Generic_Email",
       "sizesRaw": "",
       "maxPerRow": 0,
       "variants": [
