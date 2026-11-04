@@ -1,6 +1,6 @@
 {
-  "version": "1793803524520",
-  "updatedAt": "2026-11-04T14:45:24.520Z",
+  "version": "1793814450822",
+  "updatedAt": "2026-11-04T17:47:30.822Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -11,6 +11,7 @@
       "aliasesRaw": "Alerts",
       "sizesRaw": "",
       "maxPerRow": 5,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -33,6 +34,7 @@
       "aliasesRaw": "CommercialBanner, Banner One App, COMMERCIAL BANNER, BannerOneApp",
       "sizesRaw": "",
       "maxPerRow": 5,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -50,6 +52,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 5,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -70,6 +73,7 @@
       "aliasesRaw": "",
       "sizesRaw": "PRODUCT CATEGORY INSIGHTS, ProductCategoryInsights",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -90,6 +94,7 @@
       "aliasesRaw": "PromotedProducts, Promoted Products",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -112,6 +117,7 @@
       "aliasesRaw": "GESTAO DE LIMITES MBPJ, GestaoDeLimitesMbpj",
       "sizesRaw": "500x140",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -134,6 +140,7 @@
       "aliasesRaw": "COMPROVANTE PIX, ComprovantePix, CARD PIX, CardPix",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": true,
       "variants": [
         {
           "suffix": "",
@@ -158,6 +165,7 @@
       "aliasesRaw": "CARROSSEL COMERCIAL SUPERIOR, CarrosselComercialSuperior, Carrossel_MBPJ, Carrossel_500x140",
       "sizesRaw": "500x140",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -178,6 +186,7 @@
       "aliasesRaw": "CARD HOME, CardHome",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -199,6 +208,7 @@
       "aliasesRaw": "BANNER NAO LOGADO, BannerNaoLogado, BNL",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -219,6 +229,7 @@
       "aliasesRaw": "EMPRESTIMO BANNER, EmprestimoBanner",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -241,6 +252,7 @@
       "aliasesRaw": "GESTAO LIMITES BANNER, GestaoLimitesBanner",
       "sizesRaw": "336x188",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -261,6 +273,7 @@
       "aliasesRaw": "COMPROVANTE BANNER, ComprovanteBanner",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -281,6 +294,7 @@
       "aliasesRaw": "CARROSSELWEB, CarrosseL_IBPJ",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "mobi",
@@ -308,6 +322,7 @@
       "aliasesRaw": "CARD JORNADA, CardJornada",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -328,6 +343,7 @@
       "aliasesRaw": "LISTA DE OFERTA INDIVIDUAL, ListaDeOfertaIndividual",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -345,6 +361,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -365,6 +382,7 @@
       "aliasesRaw": "CARD CARTAO, CardCartao",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -382,6 +400,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -405,6 +424,7 @@
       "aliasesRaw": "BANNER DESTAQUE, Bannerdestaque, BannerImage",
       "sizesRaw": "360x380",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -425,6 +445,7 @@
       "aliasesRaw": "AVISO IMPORTANTE, AvisoImportante",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -445,6 +466,7 @@
       "aliasesRaw": "HOME LIGHTBOX, HomeLightBox",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -465,6 +487,7 @@
       "aliasesRaw": "SUPER BANNER, SuperBanner",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "desk",
@@ -499,6 +522,7 @@
       "aliasesRaw": "IMPORTANTE PARA VOCE, ImportanteParaVoce",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "mobi",
@@ -540,6 +564,7 @@
       "aliasesRaw": "Card Parceiros, CardParceiros",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -562,6 +587,7 @@
       "aliasesRaw": "PUSH 474X355, Push474x355",
       "sizesRaw": "474x355",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -584,6 +610,7 @@
       "aliasesRaw": "PUSH 360X180, Push360x180",
       "sizesRaw": "360x180",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -604,6 +631,7 @@
       "aliasesRaw": "Personal_Generic_Email, Personal_Generic_E-mail",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -624,6 +652,7 @@
       "aliasesRaw": "High_Income_Generic_Email, High_Income_Generic_E-mail",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -643,6 +672,7 @@
       "aliasesRaw": "Private_Generic_Email",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -664,6 +694,7 @@
       "aliasesRaw": "PJ_Generic_E-mail, PJ_Generic_Email, PJ_Unified Segment_Generic_Email",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -683,6 +714,7 @@
       "aliasesRaw": "PJ_Generic_EsquentaLeads",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -700,6 +732,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -717,6 +750,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -734,6 +768,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -751,6 +786,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
@@ -768,6 +804,7 @@
       "aliasesRaw": "",
       "sizesRaw": "",
       "maxPerRow": 0,
+      "iconVariant": false,
       "variants": [
         {
           "suffix": "",
