@@ -1,6 +1,6 @@
 {
-  "version": "1793897540293",
-  "updatedAt": "2026-11-05T16:52:20.293Z",
+  "version": "1794247540119",
+  "updatedAt": "2026-11-09T18:05:40.119Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -666,10 +666,11 @@
     "email private": {
       "displayName": "Email - Private",
       "aliases": [
-        "Private_Generic_Email"
+        "Private_Generic_Email",
+        "Private_Generic_E-mail"
       ],
       "sizes": [],
-      "aliasesRaw": "Private_Generic_Email",
+      "aliasesRaw": "Private_Generic_Email, Private_Generic_E-mail",
       "sizesRaw": "",
       "maxPerRow": 0,
       "iconVariant": false,
