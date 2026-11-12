@@ -1,6 +1,6 @@
 {
-  "version": "1794254343825",
-  "updatedAt": "2026-11-09T19:59:03.825Z",
+  "version": "1794511402377",
+  "updatedAt": "2026-11-12T19:23:22.377Z",
   "formats": {
     "alert": {
       "displayName": "Alert",
@@ -109,12 +109,13 @@
       "displayName": "gestão de limites mbpj",
       "aliases": [
         "GESTAO DE LIMITES MBPJ",
-        "GestaoDeLimitesMbpj"
+        "GestaoDeLimitesMbpj",
+        "GestaoLimitesBanner_500x140"
       ],
       "sizes": [
         "500x140"
       ],
-      "aliasesRaw": "GESTAO DE LIMITES MBPJ, GestaoDeLimitesMbpj",
+      "aliasesRaw": "GESTAO DE LIMITES MBPJ, GestaoDeLimitesMbpj, GestaoLimitesBanner_500x140",
       "sizesRaw": "500x140",
       "maxPerRow": 0,
       "iconVariant": true,
